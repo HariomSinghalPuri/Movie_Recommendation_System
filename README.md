@@ -19,7 +19,8 @@ A content-based Movie Recommendation System built using Python. It suggests movi
 
 ---
 ## 📸 Screenshot: 
-![Screenshot 2025-05-19 211108.png](../../../../../Pictures/Screenshots/Screenshot%202025-05-19%20211108.png)
+![Screenshot 2025-05-19 211108](https://github.com/user-attachments/assets/aee811f8-7ef7-44a0-a6b6-ef91786089c9)
+
 ---
 
 ## 🗂️ Project Structure
@@ -104,11 +105,6 @@ Enter a movie name (or type 'exit' to quit):
 
 # 🤝 Contributing
 ## Contributions are welcome! To contribute:
-
---- 
-
-# 📄 License
-This project is licensed under the MIT License.
 
 --- 
 
