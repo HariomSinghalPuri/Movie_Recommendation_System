@@ -111,7 +111,7 @@ Enter a movie name (or type 'exit' to quit):
 # 📬 Contact
 GitHub: HariomSinghalPuri
 
-Email: www.singhalpuri.com
+Email: www.singhalpuri@gmail.com
 
 ---
 ## ⭐ If you like this project, give it a star!
